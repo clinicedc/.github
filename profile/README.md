@@ -11,6 +11,10 @@ The ``Clinic EDC`` for each trial consists of a subset of trial-specific modules
 
 (python 3.10+ and Django 4.1, see setup.cfg)
 
+Demo Project
+------------
+
+See https://github.com/meta-trial/meta3-demo
 
 Projects that use the EDC
 -------------------------
