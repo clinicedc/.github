@@ -18,7 +18,7 @@ A fully functional demo project with detailed installation instructions can be f
 
 Projects that use the EDC
 -------------------------
-Recent examples of EDC's using this codebase:
+Recent examples of international clinical trials that use this codebase for their data management solution:
 
 INTECOMM
 --------
