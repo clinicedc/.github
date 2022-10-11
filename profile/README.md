@@ -14,7 +14,7 @@ The ``Clinic EDC`` for each trial consists of a subset of trial-specific modules
 Demo Project
 ------------
 
-See https://github.com/meta-trial/meta3-demo
+A fully functional demo project with detailed installation instructions can be found at https://github.com/meta-trial/meta3-demo.
 
 Projects that use the EDC
 -------------------------
