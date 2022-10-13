@@ -7,4 +7,4 @@ The codebase continues to evolve over many years of conducting clinical trials f
 Contacts
 --------
 
-For further information go to https://github.com/erikvw.
+[erikvw](https://github.com/erikvw)
