@@ -14,6 +14,9 @@ We have a number of active clinical trials that use these modules for research d
 
 [![django](https://www.djangoproject.com/m/img/badges/djangomade124x25.gif)](http://www.djangoproject.com/)
 
+[![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html)
+
+
 Contacts
 --------
 
