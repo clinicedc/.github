@@ -10,11 +10,9 @@ We have a number of active clinical trials that use these modules for research d
 
 [Read more ...](https://github.com/clinicedc/edc/blob/main/README.rst)
 
-[![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc)
+[![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc) [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html)
 
 [![django](https://www.djangoproject.com/m/img/badges/djangomade124x25.gif)](http://www.djangoproject.com/)
-
-[![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html)
 
 
 Contacts
