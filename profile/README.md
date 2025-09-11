@@ -1,6 +1,4 @@
-__clinicedc - A clinical trials data management framework__
-
-A data management framework for multisite randomized longitudinal clinical trials.
+__clinicedc - A framework for multisite longitudinal clinical trials built on Django__
 
 Here are a suite of python modules that extend Django to empower you to build an EDC / eSource system for multi-site (randomized) longitudinal clinical trials to handle informed consent, scheduled data collection, quality assurance, trial monitoring, reporting, adverse events, grading of clinical events, data export, auditing and more. 
 
