@@ -11,15 +11,14 @@ We have a number of active clinical trials that use these modules for research d
 [Read more ...](https://github.com/clinicedc/edc/blob/main/README.rst)
 
 
-|Package|Status|
-|:--|:--|
-|EDC | [![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc) [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html)                   |
-|CLINICEDC | [![clinicedc](https://img.shields.io/pypi/v/clinicedc.svg)](https://pypi.python.org/pypi/clinicedc) [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) |
-
-
-[![django](https://www.djangoproject.com/m/img/badges/djangomade124x25.gif)](http://www.djangoproject.com/)
+|Package|Version|Docs|
+|:--|:--|:--|
+|EDC | [![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc) last version | [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) |
+|CLINICEDC | [![clinicedc](https://img.shields.io/pypi/v/clinicedc.svg)](https://pypi.python.org/pypi/clinicedc) | [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) |
 
 [clinicedc.readthedocs.io](https://clinicedc.readthedocs.io/en/latest)
+
+[![django](https://www.djangoproject.com/m/img/badges/djangomade124x25.gif)](http://www.djangoproject.com/)
 
 Contacts
 --------
