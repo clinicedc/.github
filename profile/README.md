@@ -24,7 +24,3 @@ Contacts
 --------
 
 [erikvw](https://github.com/erikvw)
-   
-
-https://github.com/clinicedc/clinicedc/actions/workflows/build.yml/badge.svg
-  :target: https://github.com/clinicedc/clinicedc/actions/workflows/build.yml
