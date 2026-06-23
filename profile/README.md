@@ -9,10 +9,10 @@ We have a number of active clinical trials that use these modules for research d
 [Read more ...](https://github.com/clinicedc/edc/blob/main/README.rst)
 
 
-|Package|Version|Docs|Code|
+|Package|Version|Code|Docs|
 |:--|:--|:--|:--|
-|CLINICEDC | [![clinicedc](https://img.shields.io/pypi/v/clinicedc.svg)](https://pypi.python.org/pypi/clinicedc) | [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) | [clinicedc](https://github.com/clinicedc/clinicedc) |
-|EDC | [![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc) last version* | [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) | [edc](https://github.com/clinicedc/edc) |
+|CLINICEDC | [![clinicedc](https://img.shields.io/pypi/v/clinicedc.svg)](https://pypi.python.org/pypi/clinicedc) | [![tests](https://github.com/clinicedc/clinicedc/actions/workflows/build.yml/badge.svg)](https://github.com/clinicedc/clinicedc/actions/workflows/build.yml)| [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) | [clinicedc](https://github.com/clinicedc/clinicedc) |
+|EDC | [![edc](https://img.shields.io/pypi/v/edc.svg)](https://pypi.python.org/pypi/edc) last version* | | [![docs](https://app.readthedocs.org/projects/clinicedc/badge/?version=latest)](https://clinicedc.readthedocs.io/en/latest/index.html) | [edc](https://github.com/clinicedc/edc) |
 
 * clinicedc is a monorepo that contains the edc modules. It is drop-in replacement for the edc modules. Development continues on clinicedc.
 
@@ -25,3 +25,6 @@ Contacts
 
 [erikvw](https://github.com/erikvw)
    
+
+https://github.com/clinicedc/clinicedc/actions/workflows/build.yml/badge.svg
+  :target: https://github.com/clinicedc/clinicedc/actions/workflows/build.yml
